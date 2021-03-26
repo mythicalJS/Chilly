@@ -1,0 +1,10 @@
+{
+    "prefix" : "e.",
+    "token" : "ODEzMzI2MjQ2NDM0ODMyMzk0.YDNrGA.Y-zxssjVqNT5DBD33xM1LpkH-_o",
+    "bot_age" : 1,
+    "words_array" : ["Hi", "Bye", "This is array"],
+    "bot_info" : {
+        "name" : "ReactionRoles!",
+        "version" : 1.0
+    }
+}
