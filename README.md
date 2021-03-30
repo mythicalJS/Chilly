@@ -1,4 +1,4 @@
-# info about emumiro
+# info about Chilly
 Official emumiro release, this bot is an open source economy, fun, moderation  bot!
 
 this bot is fully coded in JavaScript, and node.js
